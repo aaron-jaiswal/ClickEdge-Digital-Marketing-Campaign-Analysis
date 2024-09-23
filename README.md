@@ -5,13 +5,13 @@ ClickEdge Digital runs 12 marketing campaigns across 10 months. Each campaign ai
 
 #### Key Metrics for Analysis
 
-Impressions: The number of times an ad was displayed to potential customers.
-Clicks: The number of times users clicked on the ad.
-Signups: The number of users who signed up after clicking the ad.
-CPC (Cost Per Click): The average cost the company pays for each click on the ad.
-CTR (Click-Through Rate): The percentage of impressions that resulted in clicks.
-Conversion Rate: The percentage of clicks that led to claims or conversions.
-ROI (Return on Investment): A financial measure representing the return gained relative to the campaign cost.
+	•	Impressions: The number of times an ad was displayed to potential customers.
+	•	Clicks: The number of times users clicked on the ad.
+	•	Signups: The number of users who signed up after clicking the ad.
+	•	CPC (Cost Per Click): The average cost the company pays for each click on the ad.
+	•	CTR (Click-Through Rate): The percentage of impressions that resulted in clicks.
+	•	Conversion Rate: The percentage of clicks that led to claims or conversions.
+	•	ROI (Return on Investment): A financial measure representing the return gained relative to the campaign cost.
 
 
 ![f4959f5b-bdbd-4a90-a248-2ccc2d562614](https://github.com/user-attachments/assets/6a55e9b6-9323-40c8-95ba-78bab916b6a0)
