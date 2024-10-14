@@ -1,4 +1,10 @@
 
+
+Link To Dashboard:
+https://lookerstudio.google.com/reporting/bd6137d5-2cf6-42da-8b1a-c4b53ae0a97d
+
+
+
 ## Background
 
 ClickEdge Digital runs 12 marketing campaigns across 10 months. Each campaign aims to attract users through online ads, with metrics captured around impressions, clicks, signups, and claims. The goal of these campaigns is to drive signups and conversions, while managing costs effectively. The company tracks detailed performance data to optimize its marketing efforts and maximize return on investment (ROI).
