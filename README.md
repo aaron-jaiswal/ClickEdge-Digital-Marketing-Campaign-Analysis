@@ -1,7 +1,7 @@
 
 
 Link To Dashboard:
-https://lookerstudio.google.com/reporting/bd6137d5-2cf6-42da-8b1a-c4b53ae0a97d
+https://public.tableau.com/views/Click-EdgeMarketingCampaignPerformance/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
@@ -20,18 +20,26 @@ ClickEdge Digital runs 12 marketing campaigns across 10 months. Each campaign ai
 	•	ROI (Return on Investment): A financial measure representing the return gained relative to the campaign cost.
 
 
-![f4959f5b-bdbd-4a90-a248-2ccc2d562614](https://github.com/user-attachments/assets/6a55e9b6-9323-40c8-95ba-78bab916b6a0)
+<img width="1208" alt="Screenshot 2024-10-31 at 11 20 09 AM" src="https://github.com/user-attachments/assets/f6961e90-87e5-44c4-ae95-499829eb868b">
+
 
 
 ## Findings 
-##### ROI vs. Impressions
-The scatterplot comparing ROI to impressions reveals no clear trend between these two variables. Some campaigns with lower impressions performed remarkably well in terms of ROI, while others with significantly more impressions struggled to achieve similar returns. This suggests that merely increasing impressions does not guarantee better financial outcomes, and other factors, such as campaign targeting or engagement quality, play a more substantial role in driving ROI.
+Top ROI Performers:
+- Campaign_10 had the highest average ROI of 32,696, followed by Campaign_1 with 31,266 and Campaign_2 with 30,791.
+- These campaigns not only showed strong financial returns but also had relatively low costs per signup (Campaign_10: 5.22, Campaign_1: 5.95).
 
-##### CPC vs. CTR
-The analysis of CPC against CTR reveals an unexpected disconnect between the two metrics. Campaigns with higher CPCs did not necessarily achieve better CTRs, and in some cases, they performed worse than campaigns with lower CPCs. This suggests that paying more per click doesn't always lead to higher engagement. Effective creative content or audience targeting may be more critical to improving CTR than simply increasing spending on clicks.
+Engagement and Conversion Trends:
+- Campaign_1 had the highest CTR at 14.82%, suggesting high engagement relative to impressions.
+- Campaign_1 and Campaign_9 also showed strong conversion rates (Campaign_1: 3.06%, Campaign_9: 3.11%), indicating effective engagement-to-signup rates.
 
-##### Conversion Rate Over Time
-The line graph depicting conversion rates over time shows significant variability across different campaigns. Some campaigns maintained relatively stable conversion rates, while others experienced noticeable drops or fluctuations over time. This trend may indicate that factors like market saturation, campaign fatigue, or external influences (e.g., seasonality) could impact how effectively campaigns convert leads over different time periods.
+Cost Efficiency:
+- Campaign_10 and Campaign_8 had relatively lower costs per signup (Campaign_10: 5.22, Campaign_8: 5.12) despite having a higher CPC than average, suggesting high value per signup.
+- Campaign_6 and Campaign_12 had higher costs per signup (Campaign_6: 12.61, Campaign_12: 8.88), which may impact profitability despite decent CTRs.
+
+Conversion and ROI Balance:
+- Campaign_9 balances high CTR, conversion rate, and a relatively high ROI, suggesting this campaign’s strategy is effective across multiple metrics.
+
 
 
 
